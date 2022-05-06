@@ -3,7 +3,7 @@
 
 ### About me
 ---
-I am a programer, drawer, investment loser.
+I am a programer, graphic artist, investment loser.
 
 - [My StackOverflow](https://stackoverflow.com/users/2873052/tsaikoga)
 - [My Cartoon](https://koga.mirror.xyz)
